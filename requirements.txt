@@ -1,0 +1,4 @@
+use pip install
+
+adafruit-circuitpython-ads1x15
+adafruit-circuitpython-ds18x20
